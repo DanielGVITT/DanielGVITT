@@ -1,8 +1,5 @@
 ### Hola Buenas Tardes.
 
-<!--
-**DanielGVITT/DanielGVITT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Gusto en visitar el perfil del alumno Daniel Gutierrez Vizcarra.
 
 - Estudiante de Instituto Tecnologico de Tijuana.
