@@ -1,4 +1,4 @@
-![](Cool Text - DANIELGVITT 404062055890649.png)
+![](CoolText.png)
 
 ### Hola Buenas Tardes.
 
