@@ -1,3 +1,5 @@
+![](Cool Text - DANIELGVITT 404062055890649.png)
+
 ### Hola Buenas Tardes.
 
 Gusto en visitar el perfil del alumno Daniel Gutierrez Vizcarra.
