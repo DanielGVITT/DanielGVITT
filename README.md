@@ -28,7 +28,7 @@ Sistemas Operativos y Virtualizacion.
 - Lunix 
 - VirutalBox.
 
-Horario del Alummno.
+Horario del Alumno.
 
 | Hora  | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                    |
 |-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
