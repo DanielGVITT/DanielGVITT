@@ -2,6 +2,8 @@
 
 ### Hola Buenas Tardes.
 
+![](GitEnjoyer.png)
+
 Gusto en visitar el perfil del alumno Daniel Gutierrez Vizcarra.
 
 - Estudiante de Instituto Tecnologico de Tijuana.
