@@ -27,3 +27,13 @@ Sistemas Operativos y Virtualizacion.
 - Mac OS.
 - Lunix 
 - VirutalBox.
+
+Horario del Alummno.
+
+| Hora  | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                    |
+|-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| 14:00 | Gestion de Proyectos       | Gestion de Proyectos       | Gestion de Proyectos       | Gestion de Proyectos       | Gestion de Proyectos       |
+| 15:00 | Taller de Investigacion I  | Taller de Investigacion I  | Taller de Investigacion I  | Taller de Investigacion I  | Gestion de Proyectos       |
+| 16:00 | Enrutamiento de Redes      | Enrutamiento de Redes      | Enrutamiento de Redes      | Enrutamiento de Redes      | Enrutamiento de Redes      |
+| 17:00 | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      |                            |
+| 18:00 | Programacion Web           | Programacion Web           | Programacion Web           | Programacion Web           | Programacion Web           |
